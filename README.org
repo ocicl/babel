@@ -5,5 +5,5 @@ Babel is a charset encoding/decoding library, not unlike GNU libiconv, but compl
 |---------+-------------------------------------------|
 | source  | git:https://github.com/cl-babel/babel.git |
 | commit  | 627d6a6                                   |
-| systems | babel                                     |
+| systems | babel babel-streams                       |
 |---------+-------------------------------------------|
