@@ -1,9 +1,10 @@
 * babel
 
-Babel is a charset encoding/decoding library, not unlike GNU libiconv, but completely written in Common Lisp.
+Babel is a charset encoding/decoding library, not unlike GNU libiconv,
+but completely written in Common Lisp.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/cl-babel/babel.git |
-| commit  | 5580484                                   |
-| systems | babel babel-streams                       |
-|---------+-------------------------------------------|
+|---------+------------------------------------------|
+| source  | git:https://github.com/atgreen/babel.git |
+| commit  | 7d4b878                                  |
+| systems | babel babel-streams                      |
+|---------+------------------------------------------|
