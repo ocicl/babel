@@ -5,6 +5,6 @@ but completely written in Common Lisp.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/cl-babel/babel.git |
-| commit  | 23c1440                                   |
+| commit  | 233ef71                                   |
 | systems | babel babel-streams                       |
 |---------+-------------------------------------------|
